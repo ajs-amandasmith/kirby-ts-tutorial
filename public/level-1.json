@@ -25,7 +25,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":20,
          "id":1,
-         "name":"Background",
+         "name":"background",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -56,7 +56,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":20,
          "id":2,
-         "name":"Clouds",
+         "name":"clouds",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -87,7 +87,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":20,
          "id":3,
-         "name":"Platforms",
+         "name":"platforms",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
         {
          "draworder":"topdown",
          "id":4,
-         "name":"Colliders",
+         "name":"colliders",
          "objects":[
                 {
                  "height":30.3333333333333,
@@ -169,7 +169,7 @@
                 {
                  "height":16,
                  "id":23,
-                 "name":"Exit",
+                 "name":"exit",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -186,12 +186,12 @@
         {
          "draworder":"topdown",
          "id":5,
-         "name":"Spawnpoints",
+         "name":"spawnpoints",
          "objects":[
                 {
                  "height":0,
                  "id":12,
-                 "name":"Player",
+                 "name":"player",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -203,7 +203,7 @@
                 {
                  "height":0,
                  "id":15,
-                 "name":"Flame",
+                 "name":"flame",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -215,7 +215,7 @@
                 {
                  "height":0,
                  "id":16,
-                 "name":"Guy",
+                 "name":"guy",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -227,7 +227,7 @@
                 {
                  "height":0,
                  "id":17,
-                 "name":"Flame",
+                 "name":"flame",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -239,7 +239,7 @@
                 {
                  "height":0,
                  "id":19,
-                 "name":"Flame",
+                 "name":"flame",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -251,7 +251,7 @@
                 {
                  "height":0,
                  "id":20,
-                 "name":"Bird",
+                 "name":"bird",
                  "point":true,
                  "rotation":0,
                  "type":"",
@@ -263,7 +263,7 @@
                 {
                  "height":0,
                  "id":21,
-                 "name":"Bird",
+                 "name":"bird",
                  "point":true,
                  "rotation":0,
                  "type":"",
